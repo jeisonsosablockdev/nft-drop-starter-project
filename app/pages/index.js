@@ -16,6 +16,13 @@ const TWITTER_HANDLE = "_buildspace";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const Home = () => {
+
+    const wallet = useWallet();
+
+    useEffect (() => {
+        console.log(wallet)
+    }, [wallet]);
+
     const renderNotConnectedContainer = () => (
 
         <div>
