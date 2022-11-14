@@ -1,0 +1,20 @@
+{
+    "name": "dancing_robots_8",
+    "symbol": "DRBT0",
+    "description": "Robots dancing in the night, under the lights of a new age 9/9.",
+    "image": "8.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "8"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+    }
+  }
