@@ -1,0 +1,81 @@
+{
+  "program": {
+    "candyMachine": "9XjVXZZz1P4r66ki5GjYfc9fWDYyisnX1z43Cb5jnptf",
+    "candyMachineCreator": "Ceb5U2QcApCz5Z9naXEhmxhmi2kuzVwKYbSjvqqMjhND",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "dancing_robots_0",
+      "image_hash": "2d4de64e3958a61495bb134580b16149e0884d28aeda5dde0262499c602374ed",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/0.png",
+      "metadata_hash": "08dc329200afa5a08fd96a4eb3ed72c2c8e02504ccab7ac7cc18d2ca67fb4001",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "dancing_robots_1",
+      "image_hash": "4032ca463e7be1ca8876c62595fbe79bc45e6b16b1c957b54af6f10e7fc5d541",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/1.png",
+      "metadata_hash": "d208755af9a7098065ad92562fd55d338a986f64fafd41390e19d34757f2434f",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "dancing_robots_0",
+      "image_hash": "8ec333ae0870f01aab47f02a1ac9471c49730511145b4d66d33da8371841c958",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/2.png",
+      "metadata_hash": "42dd9d2308214771604712df1340308d695178ccdb21f099161dae72efce316a",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "dancing_robots_0",
+      "image_hash": "f8d478cd029b2ee80fe818c62e248d79ca22c08ab98f3ed7f348c7b0cf2e629f",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/3.png",
+      "metadata_hash": "d7f9678f7d4e9ba3dcd2552c06268efa3cc0ca315a18b29b84bdc944d8af4761",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "dancing_robots_0",
+      "image_hash": "783f25bc0a2674ddcb1f3a5b6593045246cb5340dbbed235550fcbad722e0469",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/4.png",
+      "metadata_hash": "8b68dcbaa649d8b6431f131330e53e3982a3f8093414f30b75023b9ef1835a2c",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "dancing_robots_0",
+      "image_hash": "afdcbb6abd69156babe757740ef40eace23d3a0ce6e99ab7ec0264532b3f7dff",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/5.png",
+      "metadata_hash": "5223e5279893ac603d448b28aaf7693f063413d32821f4d0c7afe5771d9c84cc",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "dancing_robots_0",
+      "image_hash": "f992461bce3f53d3e71f649c7bfebcd30b8f4acae399f2d00a76c511138ddff9",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/6.png",
+      "metadata_hash": "b7cbbb5d55a79b0d2d1a5f69d6e4e107cdb9cc64a262692254d0a69c2e3c9edc",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/6.json",
+      "onChain": true
+    },
+    "7": {
+      "name": "dancing_robots_0",
+      "image_hash": "0bcb31d7b60911c8eada441c03b7ad4166bcccbed6e6f0d46981bba3d8376683",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/7.png",
+      "metadata_hash": "da89f1b410d5491b42cc26d202a12f0006b78a0008d3e2c94adf5781cbbf933d",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/7.json",
+      "onChain": true
+    },
+    "8": {
+      "name": "dancing_robots_8",
+      "image_hash": "b8ec77b00e2c4c733a6d10f3d2f86fd188cf94438ba657c1d9bb431d70f30b3a",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihxmeaovgzhtpa776ax57zofuurhvpiz3q7p4j6xvxdqqwpjpfpci/8.png",
+      "metadata_hash": "445fbac84ab72a62e6d7cfb562a009ca3239a709e71bbf9ebd75296251cc02dc",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeiajfma575vkhcdjqc5s5pegd7dt75pm3dlcsyi62qyrfznncc375e/8.json",
+      "onChain": true
+    }
+  }
+}
